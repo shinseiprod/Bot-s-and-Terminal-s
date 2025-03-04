@@ -55,6 +55,20 @@ main {
     object-fit: cover;
 }
 
+.bot-logo-placeholder {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 10px;
+    border-radius: 50%; /* Круглый placeholder */
+    background-color: #555; /* Серый фон для кружка */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2em;
+    font-weight: bold;
+    color: #fff;
+}
+
 h2 {
     font-size: 1.2em;
     margin: 10px 0;
